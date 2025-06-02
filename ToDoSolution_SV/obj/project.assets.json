@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asus\\Desktop\\KK\\MvcTodoApp_SV\\MvcTodoApp.csproj",
-      "projectName": "MvcTodoApp",
-      "projectPath": "C:\\Users\\asus\\Desktop\\KK\\MvcTodoApp_SV\\MvcTodoApp.csproj",
+      "projectUniqueName": "C:\\Users\\asus\\Desktop\\KK\\ToDoSolution_SV\\tt.csproj",
+      "projectName": "tt",
+      "projectPath": "C:\\Users\\asus\\Desktop\\KK\\ToDoSolution_SV\\tt.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asus\\Desktop\\KK\\MvcTodoApp_SV\\obj\\",
+      "outputPath": "C:\\Users\\asus\\Desktop\\KK\\ToDoSolution_SV\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -61,9 +61,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
